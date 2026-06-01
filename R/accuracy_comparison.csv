@@ -1,5 +1,0 @@
-"Method","Bias","MAD","MSE","MAPE","RSFE","Tracking_Signal","Next_Period_Forecast"
-"Naïve Forecasting",-1.1285,7.6251,109.4053,7.43,-16.9273,-2.22,107.5727
-"Moving Average",-1.3735,6.8047,73.6341,6.67,-17.8561,-2.6241,108.4839
-"Weighted Moving Average",-1.1082,6.677,75.1127,6.57,-14.4064,-2.1576,108.2866
-"Exponential Smoothing",-2.2282,6.7981,72.2735,6.59,-33.4231,-4.9165,108.0697
