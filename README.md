@@ -6,7 +6,7 @@ This project implements a complete, lightweight, and fully reproducible quantita
 ## 2. Data Source and TÜİK Connection
 To comply with strict reproducibility guidelines and prevent manual file interactions, the data is pulled directly from the TÜİK Data Portal using an automated programmatic data pipeline via the 'tuikr' package and secure HTTP GET streaming.
 - **TÜİK Data Set Name:** Indices concerning the service sector and monthly changes
-- **TÜİK Theme/Category:** Services / Turnover and Production Indices
+- **TÜİK Theme/Category:** Short-Term Economic Indicators
 - **TÜİK Table Name:** Services Production Index (2011-2026)
 - **tuikr Dataflow ID:** TR,DF_HIZMET_URETIM_ENDEKS_C,1.0
 - **Selected Variable:** Service Production Index (Base Year 2011=100)
