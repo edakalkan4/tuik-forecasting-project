@@ -1,0 +1,15 @@
+---
+title: "TÜİK Services Production Index Quantitative Forecasting Analysis"
+author: "Eda Kalkan (Student ID: 138722029)"
+date: "`r Sys.Date()`"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    theme: united
+    highlight: tango
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk_set(echo = TRUE, warning = FALSE, message = FALSE)
+library(forecast)
